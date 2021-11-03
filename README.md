@@ -1,5 +1,6 @@
 # Forest_Fire_Detector
-In this project, fire and smoke were detected using yolov4.
+In this project, fire and smoke were detected using yolov4. I created datasets and labelled images myself. The project is not suitable for commercial use
+
 Project video link: https://www.youtube.com/watch?v=oAUN68r7N5o
 
 Hardware:
