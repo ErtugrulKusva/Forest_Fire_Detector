@@ -1,0 +1,7 @@
+classes= 2
+train  = data/train.txt
+valid  = data/val.txt
+#valid = data/coco_val_5k.list
+names = coco.names
+backup = backup/yolov4_tiny
+eval=coco
