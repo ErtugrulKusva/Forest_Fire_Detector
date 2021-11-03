@@ -3,6 +3,10 @@ In this project, fire and smoke were detected using yolov4. I created datasets a
 
 Project video link: https://www.youtube.com/watch?v=oAUN68r7N5o
 
+Firstly, you have to download the input video. This video will be used in the program.
+
+The video link which used in the project : https://wifidepo.com/yangin1080.rar
+
 Hardware:
 
 
