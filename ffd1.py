@@ -2,7 +2,7 @@
 from PyQt5 import QtGui, QtWidgets, uic
 from PyQt5.QtGui import QPixmap
 import sys
-import cv2
+import cv2 #opencv-python==4.5.3 
 import time
 from PyQt5.QtCore import pyqtSignal, pyqtSlot, Qt, QThread
 from PyQt5.QtWidgets import QApplication, QWidget, QListWidget, QLabel, QVBoxLayout
@@ -13,6 +13,8 @@ from PyQt5.QtCore import QProcess
 import numpy as np
 import sqlite3
 from numpy.core.records import array
+
+
 
 def dict_factory(cursor, row):
     d = {}
