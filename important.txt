@@ -1,5 +1,5 @@
 The opencv version I am using is 4.5.3 . It is not included in "requirements.txt". This is because I compile python opencv library with cuda. 
-If you install "pip install opencv", you will run your opencv with cpu. This will cause you to get low fps.
+If you install "pip install opencv", you will run your opencv with CPU. This will cause you to get low fps.
 Cuda version==11.2
 python version==3.8.10
 
